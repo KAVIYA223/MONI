@@ -15,12 +15,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "17323890",
+        "value": "13726853",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "6bd39253d6505762ec92cee9bbeec8bb",
+        "value": "749e522c40616d1fee242fe8974527b9",
         "required": true
       },      
       "AUTO_LEAVING_ASSISTANT": {
@@ -30,27 +30,27 @@
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "5983809475:AAEkhDHjL2HDnTH0CDycSZiq2jlfpBS7_mY",
+        "value": "5781064175:AAFcZq82PrsrNrGw0zx2M5_wGT8pIMGDgpA",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com . You can leave it blank if you want , bot will use YukkiDevil's database for you.",
-        "value": "",
+        "value": "mongodb+srv://karthika:karthika@cluster0.6jms6m3.mongodb.net/?retryWrites=true&w=majority",
         "required": false
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. Please don't use ascii characters",
-        "value": "𝐃𝐄𝐕𝐈𝐋  𝙓 ꪑꪊ𝘴𝓲ᥴ",
+        "value": "𝐃𝐑𝐄𝐀𝐌  𝙓 ꪑꪊ𝘴𝓲ᥴ",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "5372699109",
+        "value": "5085967037",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "BQAvi3OVLRdWN3mcuhgygP5KdpO_UpCXuYsfoJPZCyuvqvZZtlHYaW0OPWAy5L4ofEMi9aedyzqhtDqMa_fWxeqbLTRWrKHcdhFlrjOHTpMDoVFMsAY3lpj6ikSAkGdj6IqeDdEc7ko_aorT3Pnro5wxXpK8bzqpE2P1IuEacX7xdrNfebZwfLumMuBodtDJREtW_LHEkBw02-WYJXcSIGjv0k8ctiIzw_JvIZOUFI4VTf-jrpJ0dSpOPfrqxXgneMXg7fTBebTbbe6vlbIbKRH4TKudbQCpijWDOGBONZabKzmbSVg_2Uu12Xoi0_6AbZ7ncEbbw8Qs3JyYsKy58owuAAAAAUA84eUA",
+        "value": "BQBKlqRKPwKYiouUV2m1xvt2reRTyjSGFRHLJi7nR5szKlSWXl9_A4T67laLClX8SXn_jBccmV61r-5ZjrWadZ9yFx-N0VZn-XiZ2iY3MtYAxeru8mZECsfiN9c3mfKy6NYXXkrKV53A1yft0P8Y0zrf6jZ-D3V5jPToUtHR4SbMjsLfZNFOiuVinb1qwV30nT89RUvbkE-xm6dHXJQYY863Zce-9P0zxqfFF5VHjS8Kgavh8VFwJ4xWZ9GLf9VMrvZmgjeJijvALZ47SCcEfrnD4I--9TQqtRw72FHZX57WPp1vYyFqpZ3Ycng7TFkxN1zg13F9L9hmCcGNy7QWxfU-AAAAAS8lsr0A",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -65,36 +65,36 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-        "value": "-1001599873829",
+        "value": "-1001888105987",
         "required": true
       },      
       "START_IMG_URL": {
         "description": "Telegraph Image URL For Start Command",
-        "value": "https://te.legra.ph/file/490d4f6fa16e4bdff4c0c.jpg",
+        "value": "https://te.legra.ph/file/575fc7cacccb7f6de705e.jpg",
         "required": true
       }
     },
     "𝐒𝐔𝐏𝐏𝐎𝐑𝐓_𝐂𝐇𝐀𝐍𝐍𝐄𝐋": {
         "description": "Your telegram channel",
-        "value": "https://t.me/Teams_devil",
+        "value": "https://t.me/darkdevilfederation",
         "required": true
       }
     },
     "𝐒𝐔𝐏𝐏𝐎𝐑𝐓_𝐆𝐑𝐎𝐔𝐏": {
         "description": "Your telegram Group",
-        "value": "https://t.me/sabyahaapnehai",
+        "value": "https://t.me/mirachlenetwork",
         "required": true
       }
     },
     "𝐃𝐄𝐏𝐋𝐎𝐘_𝐁𝐎𝐓": {
         "description": "Your repository",
-        "value": "https://github.com/sahilsaim1919/Devil_X_Music_player",
+        "value": "https://github.com/KAVIYA223/MONI",
         "required": true
       }
     },
     "𝐎𝐖𝐍𝐄𝐑 ": {
         "description": "Your telegram username",        
-        "value": "@Misterjack18",
+        "value": "@Iamdreamgirlll",
         "required": true
       }
     },
